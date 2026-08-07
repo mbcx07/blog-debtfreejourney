@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://debtfreejourney.com/blog-debtfreejourney/sitemap.xml
